@@ -14,15 +14,11 @@ sᴇᴇ <i>ʜᴇʟᴘ</i> ꜰᴏʀ ᴍᴏʀᴇ ᴅᴇᴛᴀɪʟs.
 © @TroJanzHEX</b>"""
 
 
-    HELP_MSG = """<b>Hai, Follow these Steps..</b>
-
-🌀 <i>Send me any Valid video file.</i>
-
-🌀 <i>Click Download and Process button to download the file to my server</i>
-
-🌀 <i>Wait till I process the video!</i>
-
-🌀 <i>Now select the stream you need to extract!</i>
+    HELP_MSG = """<b>ʜᴀɪ, ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ sᴛᴇᴘs..😊</b>
+🌀 <i>sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠᴀʟɪᴅ ᴠɪᴅᴇᴏ ꜰɪʟᴇ.</i>
+🌀 <i>ᴄʟɪᴄᴋ ᴅᴏᴡɴʟᴏᴀᴅ ᴀɴᴅ ᴘʀᴏᴄᴇss ʙᴜᴛᴛᴏɴ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴛʜᴇ ꜰɪʟᴇ ᴛᴏ ᴍʏ sᴇʀᴠᴇʀ</i>
+🌀 <i>ᴡᴀɪᴛ ᴛɪʟʟ ɪ ᴘʀᴏᴄᴇss ᴛʜᴇ ᴠɪᴅᴇᴏ!</i>
+🌀 <i>ɴᴏᴡ sᴇʟᴇᴄᴛ ᴛʜᴇ sᴛʀᴇᴀᴍ ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ᴇxᴛʀᴀᴄᴛ!</i>
 
 <b>© @TroJanzHEX</b>"""
 
