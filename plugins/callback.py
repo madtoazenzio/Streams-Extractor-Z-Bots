@@ -22,9 +22,9 @@ async def cb_handler(client, query):
     if query.data == "start_data":
         await query.answer()
         keyboard = InlineKeyboardMarkup([
-            [InlineKeyboardButton("HELP", callback_data="help_data"),
-                InlineKeyboardButton("ABOUT", callback_data="about_data")],
-            [InlineKeyboardButton("⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/TroJanzHEX")]
+            [InlineKeyboardButton("ʜᴇʟᴘ", callback_data="help_data"),
+                InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about_data")],
+            [InlineKeyboardButton("⭕️ ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ ⭕️", url="https://t.me/Z_Bots")]
         ])
 
         await query.message.edit_text(
@@ -38,9 +38,9 @@ async def cb_handler(client, query):
     elif query.data == "help_data":
         await query.answer()
         keyboard = InlineKeyboardMarkup([
-            [InlineKeyboardButton("BACK", callback_data="start_data"),
-                InlineKeyboardButton("ABOUT", callback_data="about_data")],
-            [InlineKeyboardButton("⭕️ SUPPORT ⭕️", url="https://t.me/TroJanzSupport")]
+            [InlineKeyboardButton("ʙᴀᴄᴋ", callback_data="start_data"),
+                InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about_data")],
+            [InlineKeyboardButton("⭕️ sᴜᴘᴘᴏʀᴛ ⭕️", url="https://t.me/z_bots_support7")]
         ])
 
         await query.message.edit_text(
@@ -54,9 +54,9 @@ async def cb_handler(client, query):
     elif query.data == "about_data":
         await query.answer()
         keyboard = InlineKeyboardMarkup([
-            [InlineKeyboardButton("BACK", callback_data="help_data"),
-                InlineKeyboardButton("START", callback_data="start_data")],
-            [InlineKeyboardButton("SOURCE CODE", url="https://github.com/TroJanzHEX/Streams-Extractor")]
+            [InlineKeyboardButton("ʙᴀᴄᴋ", callback_data="help_data"),
+                InlineKeyboardButton("sᴛᴀʀᴛ", callback_data="start_data")],
+            [InlineKeyboardButton("sᴜʙsᴄʀɪʙᴇ ɴᴏᴡ ᴏᴜʀ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ", url="https://youtube.com/channel/UCBNR3HdxF8qQUqsMtfyxojQ")]
         ])
 
         await query.message.edit_text(
