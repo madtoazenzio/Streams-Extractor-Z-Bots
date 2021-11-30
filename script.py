@@ -5,13 +5,11 @@
 
 class Script(object):
 
-    START_MSG = """<b>Hello {},
+    START_MSG = """<b>ʜᴇʟʟᴏ {},
 
-I can extract audio and subtitles from video files.
-
-Send me any video file and extract what you want :).
-
-See <i>help</i> for more details.
+ɪ ᴄᴀɴ ᴇxᴛʀᴀᴄᴛ ᴀᴜᴅɪᴏ ᴀɴᴅ sᴜʙᴛɪᴛʟᴇs ꜰʀᴏᴍ ᴠɪᴅᴇᴏ ꜰɪʟᴇs.
+sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏ ꜰɪʟᴇ ᴀɴᴅ ᴇxᴛʀᴀᴄᴛ ᴡʜᴀᴛ ʏᴏᴜ ᴡᴀɴᴛ :).
+sᴇᴇ <i>ʜᴇʟᴘ</i> ꜰᴏʀ ᴍᴏʀᴇ ᴅᴇᴛᴀɪʟs.
 
 © @TroJanzHEX</b>"""
 
