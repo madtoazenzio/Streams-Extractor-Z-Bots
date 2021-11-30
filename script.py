@@ -23,12 +23,9 @@ sᴇᴇ <i>ʜᴇʟᴘ</i> ꜰᴏʀ ᴍᴏʀᴇ ᴅᴇᴛᴀɪʟs.✨
 <b>© @Z_Bots</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Streams Extractor Bot</b>
-
-⭕️<b>Creater :</b> @TroJanzHEX    
-
-⭕️<b>Language :</b> <code>Python3</code>
-
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
-
+    ABOUT_MSG = """<b>ᴍʏ ɴᴀᴍᴇ : sᴛʀᴇᴀᴍs ᴇxᴛʀᴀᴄᴛᴏʀ ʙᴏᴛ</b>
+⭕️<b>ᴄʜᴀɴɴᴇʟ :</b>@Z_Bots    
+⭕️<b>ʟᴀɴɢᴜᴀɢᴇ :</b><code>ᴘʏᴛʜᴏɴ3</code>
+⭕️<b>ɢɪᴛ ᴘʀᴏꜰɪʟᴇ:</b> </b> <a href='https://github.com/madtoazenzio'>ᴍᴀᴅᴛᴏᴀᴢᴇɴᴢɪᴏ :)</a>
+⭕️<b>ʟɪʙʀᴀʀʏ :</b> </b> <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ 1.0.7</a>
 """
