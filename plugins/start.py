@@ -19,12 +19,12 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("HELP", callback_data="help_data"),
-                    InlineKeyboardButton("ABOUT", callback_data="about_data"),
+                    InlineKeyboardButton("ʜᴇʟᴘ", callback_data="help_data"),
+                    InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about_data"),
                 ],
                 [
                     InlineKeyboardButton(
-                        "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/TroJanzHEX")
+                        "⭕️ ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ ⭕️", url="https://t.me/TroJanzHEX")
                 ]
             ]
         ),
@@ -40,8 +40,8 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("BACK", callback_data="start_data"),
-                    InlineKeyboardButton("ABOUT", callback_data="about_data"),
+                    InlineKeyboardButton("ʙᴀᴄᴋ", callback_data="start_data"),
+                    InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about_data"),
                 ],
                 [
                     InlineKeyboardButton(
@@ -61,12 +61,12 @@ async def about(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("BACK", callback_data="help_data"),
-                    InlineKeyboardButton("START", callback_data="start_data"),
+                    InlineKeyboardButton("ʙᴀᴄᴋ", callback_data="help_data"),
+                    InlineKeyboardButton("sᴛᴀʀᴛ", callback_data="start_data"),
                 ],
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TroJanzHEX/Streams-Extractor")
+                        "sᴜʙsᴄʀɪʙᴇ ɴᴏᴡ ᴏᴜʀ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ", url="https://youtube.com/channel/UCBNR3HdxF8qQUqsMtfyxojQ")
                 ]
             ]
         ),
